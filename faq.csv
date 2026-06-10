@@ -1,0 +1,60 @@
+Question,Answer
+What is Python?,"Python is a high-level, interpreted programming language known for its simplicity and readability. It supports object-oriented, procedural, and functional programming paradigms. Python is widely used in web development, data science, machine learning, automation, and artificial intelligence. Its extensive libraries make development faster and more efficient."
+
+What are the features of Python?,"Python is easy to learn and has a simple syntax. It is platform-independent, open source, and supports multiple programming paradigms. Python has a large standard library and strong community support. It is highly scalable and widely used across industries."
+
+What is Machine Learning?,"Machine Learning is a branch of Artificial Intelligence that enables systems to learn patterns from data without being explicitly programmed. It uses algorithms to improve performance through experience. Machine learning is used in recommendation systems, fraud detection, and predictive analytics."
+
+What are the types of Machine Learning?,"The three main types of machine learning are supervised learning, unsupervised learning, and reinforcement learning. Supervised learning uses labeled data, unsupervised learning finds patterns in unlabeled data, and reinforcement learning learns through rewards and penalties."
+
+What is Artificial Intelligence?,"Artificial Intelligence is the simulation of human intelligence by machines. AI systems can perform tasks such as learning, reasoning, problem-solving, and decision-making. AI is used in virtual assistants, robotics, healthcare, and autonomous vehicles."
+
+What is Deep Learning?,"Deep Learning is a subset of machine learning that uses artificial neural networks with multiple layers. It is highly effective for image recognition, speech recognition, and natural language processing. Deep learning models require large amounts of data and computational power."
+
+What is Data Science?,"Data Science is the field of extracting insights and knowledge from data. It combines statistics, programming, machine learning, and domain expertise. Data scientists analyze large datasets to support business decisions and solve complex problems."
+
+What is Natural Language Processing?,"Natural Language Processing, or NLP, is a branch of AI that enables computers to understand and process human language. NLP is used in chatbots, translation systems, sentiment analysis, and speech recognition applications."
+
+What are the applications of NLP?,"NLP is used in chatbots, virtual assistants, machine translation, text summarization, sentiment analysis, spam detection, and voice recognition systems. It helps computers interact naturally with human language."
+
+What is Computer Vision?,"Computer Vision is a field of AI that enables machines to interpret and analyze visual information from images and videos. Applications include facial recognition, medical image analysis, self-driving cars, and object detection."
+
+What is Django?,"Django is a high-level Python web framework that promotes rapid development and clean design. It follows the Model-View-Template architecture and includes built-in features such as authentication, security, and database management."
+
+What is Flask?,"Flask is a lightweight Python web framework that provides flexibility and simplicity. It is often used for small to medium-sized web applications and APIs. Flask allows developers to choose their own tools and libraries."
+
+What is Streamlit?,"Streamlit is an open-source Python framework used to create interactive web applications for data science and machine learning projects. It allows developers to build dashboards and applications with minimal code."
+
+What is Pandas?,"Pandas is a powerful Python library used for data manipulation and analysis. It provides data structures such as DataFrames and Series that make it easy to work with structured data. Pandas is widely used in data science projects."
+
+What is NumPy?,"NumPy is a Python library for numerical computing. It provides support for arrays, matrices, and mathematical operations. NumPy is the foundation for many scientific and machine learning libraries."
+
+What is Scikit-Learn?,"Scikit-Learn is a popular machine learning library in Python. It provides tools for classification, regression, clustering, model evaluation, and preprocessing. It is widely used for building machine learning models."
+
+What is TensorFlow?,"TensorFlow is an open-source deep learning framework developed by Google. It is used for building and training neural networks. TensorFlow supports large-scale machine learning and deployment across multiple platforms."
+
+What is PyTorch?,"PyTorch is an open-source deep learning framework developed by Meta. It provides dynamic computation graphs and is widely used in research and production environments. PyTorch is known for its flexibility and ease of use."
+
+What is a Database?,"A database is an organized collection of data that can be stored, managed, and retrieved efficiently. Databases are used in applications to store user information, transactions, and business records."
+
+What is SQL?,"SQL stands for Structured Query Language. It is used to create, retrieve, update, and manage data stored in relational databases. SQL is one of the most important languages for database management."
+
+What is MySQL?,"MySQL is a popular open-source relational database management system. It uses SQL for managing data and is commonly used in web applications. MySQL is known for its reliability and performance."
+
+What is MongoDB?,"MongoDB is a NoSQL database that stores data in flexible JSON-like documents. It is designed for scalability and high performance. MongoDB is commonly used in modern web applications and big data projects."
+
+What is Cloud Computing?,"Cloud Computing is the delivery of computing services such as storage, servers, networking, and software over the internet. It allows users to access resources on demand without managing physical infrastructure."
+
+What is AWS?,"Amazon Web Services, or AWS, is a cloud computing platform provided by Amazon. It offers services such as computing power, storage, databases, and machine learning tools. AWS is widely used by businesses around the world."
+
+What is Git?,"Git is a distributed version control system used to track changes in source code. It helps developers collaborate efficiently and maintain project history. Git is widely used in software development."
+
+What is GitHub?,"GitHub is a cloud-based platform for hosting Git repositories. It enables developers to collaborate, manage projects, and contribute to open-source software. GitHub also provides features such as issue tracking and pull requests."
+
+What is an API?,"An API, or Application Programming Interface, is a set of rules that allows software applications to communicate with each other. APIs enable integration between different systems and services."
+
+What is FastAPI?,"FastAPI is a modern Python framework for building APIs. It is designed for high performance and supports automatic documentation generation. FastAPI is widely used for developing machine learning and backend services."
+
+What is Cyber Security?,"Cyber Security is the practice of protecting systems, networks, and data from cyber threats and attacks. It includes measures such as encryption, authentication, and threat detection to ensure data security."
+
+What is Generative AI?,"Generative AI is a type of artificial intelligence that can create new content such as text, images, audio, and videos. It uses advanced machine learning models trained on large datasets. Popular examples include ChatGPT, Gemini, and image generation systems."
